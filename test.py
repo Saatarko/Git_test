@@ -1,1 +1,1 @@
-print('всем gjrfffff')
+print('всем пока!!!')
